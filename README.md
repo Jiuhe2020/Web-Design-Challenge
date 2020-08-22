@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-Web Visualization Dashboard: https://jiuhe2020.github.io/Web-Design-Challenge/
+Web Visualization Dashboard: https://jiuhe2020.github.io/Web-Design-Challenge
 ## Latitude Analysis Dashboard
 Web Visualization Dashboard of weather in 500+ cities at different latitudes relative to the equator line.
 * In building this dashboard, individual pages are created for each plot, which contain the visualizations and their corresponding explanations, together with a means by which the navigation is available between different pages.
