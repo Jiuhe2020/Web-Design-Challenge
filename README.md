@@ -1,4 +1,5 @@
 # Web Visualization Dashboard
+![landing page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png)
 ## Deployment Link
 https://jiuhe2020.github.io/Web-Design-Challenge
 
