@@ -29,9 +29,15 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - The plot/visualization itself for the selected comparison
 - A paragraph describing the plot and its significance
   - Large screen:
-![Visualization_Pages](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png">
+</p>
+
   - Small screen:
-![Visualization_Pages_Small](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png" height="50%" width="50%">
+</p>
+
 3. A ["Comparisons" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png) that:
 - Contains all of the visualizations on the same page so we can easily visually compare them
 - Uses a Bootstrap grid for the visualizations: two visualizations across on screens medium and larger, and one across on extra-small and small screens
