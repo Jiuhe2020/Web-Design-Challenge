@@ -15,53 +15,53 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - An explanation of the project
 - Links to each visualizations page: there is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization
   - Large screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png" height="80%" width="80%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png" height="80%" width="80%">
+  </p>
 
   - Small screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png" height="40%" width="40%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png" height="40%" width="40%">
+  </p>
 
 2. Four [visualization pages](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png), each with:
 - A descriptive title and heading tag
 - The plot/visualization itself for the selected comparison
 - A paragraph describing the plot and its significance
   - Large screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png" height="80%" width="80%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png" height="80%" width="80%">
+  </p>
 
   - Small screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png" height="40%" width="40%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png" height="40%" width="40%">
+  </p>
 
 3. A ["Comparisons" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png) that:
 - Contains all of the visualizations on the same page so we can easily visually compare them
 - Uses a Bootstrap grid for the visualizations: two visualizations across on screens medium and larger, and one across on extra-small and small screens
   - Large screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png" height="80%" width="80%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png" height="80%" width="80%">
+  </p>
 
   - Small screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png" height="40%" width="40%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png" height="40%" width="40%">
+  </p>
 
 4. A ["Data" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png) that:
 - Displays a responsive table containing the data used in the visualizations: the table is a bootstrap table component and the data come from converting a Pandas Dataframe to HTML using `to_html` method
   - Large screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png" height="80%" width="80%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png" height="80%" width="80%">
+  </p>
 
   - Small screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page_Small.png" height="40%" width="40%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page_Small.png" height="40%" width="40%">
+  </p>
 
 5. At the top of every page, there is a [navigation menu](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png) that:
 - Has the name of the site on the left of the nav which allows users to return to the landing page from any page
@@ -69,14 +69,14 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page
 - Is responsive (using media queries). The nav have similar behavior as the screenshots "Navigation Menu" section
   - Large screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png" height="80%" width="80%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png" height="80%" width="80%">
+  </p>
 
   - Small screen:
-<p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png" height="40%" width="40%">
-</p>
+  <p align="center">
+    <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png" height="40%" width="40%">
+  </p>
 
 ---
 ### Copyright
