@@ -42,9 +42,15 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Contains all of the visualizations on the same page so we can easily visually compare them
 - Uses a Bootstrap grid for the visualizations: two visualizations across on screens medium and larger, and one across on extra-small and small screens
   - Large screen:
-![Comparisons_Page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png">
+</p>
+
   - Small screen:
-![Comparisons_Page_Small](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png" height="50%" width="50%">
+</p>
+
 4. A ["Data" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png) that:
 - Displays a responsive table containing the data used in the visualizations: the table is a bootstrap table component and the data come from converting a Pandas Dataframe to HTML using `to_html` method
   - Large screen:
