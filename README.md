@@ -21,7 +21,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
   - Small screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png" height="40%" width="40%">
 </p>
 
 2. Four [visualization pages](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png), each with:
@@ -35,7 +35,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
   - Small screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages_Small.png" height="40%" width="40%">
 </p>
 
 3. A ["Comparisons" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png) that:
@@ -48,7 +48,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
   - Small screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page_Small.png" height="40%" width="40%">
 </p>
 
 4. A ["Data" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png) that:
@@ -60,7 +60,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
   - Small screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page_Small.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page_Small.png" height="40%" width="40%">
 </p>
 
 5. At the top of every page, there is a [navigation menu](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png) that:
@@ -75,7 +75,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
   - Small screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png" height="50%" width="50%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png" height="40%" width="40%">
 </p>
 
 ---
