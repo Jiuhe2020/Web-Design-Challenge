@@ -15,9 +15,15 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - An explanation of the project
 - Links to each visualizations page: there is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization
   - Large screen:
-![Landing_Page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png">
+</p>
+
   - Small screen:
-![Landing_Page_Small](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page_Small.png" height="50%" width="50%">
+</p>
+
 2. Four [visualization pages](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png), each with:
 - A descriptive title and heading tag
 - The plot/visualization itself for the selected comparison
