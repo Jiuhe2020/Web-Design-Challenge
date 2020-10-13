@@ -16,7 +16,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Links to each visualizations page: there is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png" height="80%" width="80%">
 </p>
 
   - Small screen:
@@ -30,7 +30,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - A paragraph describing the plot and its significance
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Visualization_Pages.png" height="80%" width="80%">
 </p>
 
   - Small screen:
@@ -43,7 +43,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Uses a Bootstrap grid for the visualizations: two visualizations across on screens medium and larger, and one across on extra-small and small screens
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Comparisons_Page.png" height="80%" width="80%">
 </p>
 
   - Small screen:
@@ -55,7 +55,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Displays a responsive table containing the data used in the visualizations: the table is a bootstrap table component and the data come from converting a Pandas Dataframe to HTML using `to_html` method
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png" height="80%" width="80%">
 </p>
 
   - Small screen:
@@ -70,7 +70,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Is responsive (using media queries). The nav have similar behavior as the screenshots "Navigation Menu" section
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png" height="80%" width="80%">
 </p>
 
   - Small screen:
