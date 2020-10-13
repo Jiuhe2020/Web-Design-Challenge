@@ -16,7 +16,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Links to each visualizations page: there is a sidebar containing preview images of each plot, and clicking an image will take the user to that visualization
   - Large screen:
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Landing_Page.png" height="75%" width="75%">
 </p>
 
   - Small screen:
