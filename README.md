@@ -69,9 +69,14 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 - Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page
 - Is responsive (using media queries). The nav have similar behavior as the screenshots "Navigation Menu" section
   - Large screen:
-![Navigation_Menu](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png">
+</p>
+
   - Small screen:
-![Navigation_Menu_Small](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png)
+<p align="center">
+  <img src="https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu_Small.png" height="50%" width="50%">
+</p>
 
 ---
 ### Copyright
