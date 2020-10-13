@@ -28,7 +28,7 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 4. A ["Data" page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png) that:
 - Displays a responsive table containing the data used in the visualizations
   - The table must be a bootstrap table component
-  - The data come from converting a pandas dataframe to HTML using `to_html` in Pandas 
+  - The data come from converting a Pandas Dataframe to HTML using `to_html` method 
 ![Data_Page](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Data_Page.png)
 5. At the top of every page, there is a [navigation menu](https://github.com/Jiuhe2020/Web-Design-Challenge/blob/master/images/Navigation_Menu.png) that:
 - Has the name of the site on the left of the nav which allows users to return to the landing page from any page
